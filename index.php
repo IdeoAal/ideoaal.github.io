@@ -50,7 +50,7 @@
 
   <div class="hero_area">
     <div class="bg-box">
-      <img src="images/header-bg.jpg" alt="">
+      <img src="images/header-bg.jpg"alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
